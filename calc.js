@@ -1,4 +1,4 @@
-alert('This is a simple calculator created with JavaScript, it carries out simple calculations like addititon, subtraction, multiplication and division')
+alert('This is a simple calculator created with JavaScript, it carries out simple calculations like addititon, subtraction, multiplication and division');
 // Firstly, take the operator from the user through prompt box.  
 const operator = prompt('Please Enter Operator to perform the calculation (Select either +, -, *, ** or / ): ');  
   
