@@ -1,3 +1,4 @@
+alert('This is a simple calculator created with JavaScript, it carries out simple calculations like addititon, subtraction, multiplication and division')
 // Firstly, take the operator from the user through prompt box.  
 const operator = prompt('Please Enter Operator to perform the calculation (Select either +, -, *, ** or / ): ');  
   
@@ -25,4 +26,4 @@ else {
 }  
   
 // display the result of the Calculator  
-window.alert(" The Result is " + result); 
+window.alert(" The Result is = " + result); 
